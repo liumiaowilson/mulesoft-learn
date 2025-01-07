@@ -1,0 +1,7 @@
+{
+  "runtime": "4.8-java17",
+  "workerSize": 0.1,
+  "applicationName": "american-ws-anypoint-code-builder",
+  "workers": 1,
+  "autoStart": true
+}

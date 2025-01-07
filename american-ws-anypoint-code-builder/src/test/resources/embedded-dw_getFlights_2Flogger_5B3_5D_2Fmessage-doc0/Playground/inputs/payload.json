@@ -1,0 +1,15 @@
+[
+  {
+    "ID": 26,
+    "code": "aliquam",
+    "price": 0.79,
+    "departureDate": "dolor",
+    "origin": "pretium",
+    "destination": "dolor",
+    "emptySeats": 2,
+    "plane": {
+      "type": "molestie",
+      "totalSeats": 31
+    }
+  }
+]
